@@ -4,7 +4,7 @@ Filmpire combines the desire to unleash powerful creativity with the industry's 
 
 This application includes user authentication, dark mode, sort movie on the basis of categories or genres, viewing movie and actor details, adding a movie to favorites or watchlist and many more functionalities.
 
-[View Demo]()
+[View Demo](https://filmpire-mavue.vercel.app/)
 
 ## About the Project
 
